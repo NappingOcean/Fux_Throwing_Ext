@@ -1,0 +1,19 @@
+[
+    {
+        "id": "fux_tool_throwing_ext",
+        "name": {"str_sp":"Fux Emergency Extinguisher: Prototype"},
+        "type": "TOOL",
+        "category":"tools",
+        "description": "A prototype throwable fire extinguisher that utilizes conventional solvents and a few unpatented reagents. This groundbreaking invention works by allowing the solvent to cover the surrounding flame and extinguish it as soon as you throw it. Even if you throw it on the ground, it disappears without a trace.\nIt would have been great to see this fire extinguisher on the market, but the company that made it, Fux, was sued by the Department of Defense for patent theft, and in the middle of that lawsuit, it met the Cataclysm.",
+        "weight": "600 g",
+        "volume":"500 ml",
+        "price":0,
+        "to_hit":-1,
+        "bashing":4,
+        "material":"glass",
+        "symbol":"E",
+        "color":"cyan",
+        "use_action":"THROW_EXT",
+        "flags":[ "ACT_ON_RANGED_HIT", "NPC_THROWN" ]
+    }
+]

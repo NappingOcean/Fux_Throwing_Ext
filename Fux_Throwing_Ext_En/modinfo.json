@@ -1,0 +1,13 @@
+[
+    {
+        "type":"MOD_INFO",
+        "id": "Fux_Throwing_Ext_en",
+        "name":"Add Lua Throwing Fire Ext",
+        "authors":["NappingOcean"],
+        "description":"Meet the improved throwing fire extinguisher, implemented in Lua!",
+        "category":"items",
+        "lua_api_version":1,
+        "dependencies":["bn"],
+        "obsolete": false
+    }
+]
