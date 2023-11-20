@@ -1,0 +1,7 @@
+[
+    {
+        "type":"item_action",
+        "id":"THROW_EXT",
+        "name":{"str":"소화기 작동"}
+    }
+]

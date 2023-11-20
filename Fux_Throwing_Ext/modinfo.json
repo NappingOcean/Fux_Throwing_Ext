@@ -1,0 +1,13 @@
+[
+    {
+        "type":"MOD_INFO",
+        "id": "Fux_Throwing_Ext",
+        "name":"투척식 소화기 추가",
+        "authors":["NappingOcean"],
+        "description":"Lua로 구현된 던지는 소화기를 만나보십시오!",
+        "category":"items",
+        "lua_api_version":1,
+        "dependencies":["bn"],
+        "obsolete": false
+    }
+]

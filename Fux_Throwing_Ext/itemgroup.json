@@ -1,0 +1,7 @@
+[
+    {
+        "type":"item_group",
+        "id":"fireman_gear",
+        "items":[["fux_tool_throwing_ext",10]]
+    }
+]
