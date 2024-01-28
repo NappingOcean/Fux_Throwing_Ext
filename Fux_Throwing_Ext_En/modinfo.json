@@ -6,7 +6,7 @@
         "authors":["NappingOcean"],
         "description":"Meet the improved throwing fire extinguisher, implemented in Lua!",
         "category":"items",
-        "lua_api_version":1,
+        "lua_api_version":2,
         "dependencies":["bn"],
         "obsolete": false
     }
