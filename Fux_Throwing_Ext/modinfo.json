@@ -6,7 +6,7 @@
         "authors":["NappingOcean"],
         "description":"Lua로 구현된 던지는 소화기를 만나보십시오!",
         "category":"items",
-        "lua_api_version":1,
+        "lua_api_version":2,
         "dependencies":["bn"],
         "obsolete": false
     }
